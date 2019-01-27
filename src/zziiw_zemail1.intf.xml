@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOINTERF>
-    <CLSNAME>ZZIIW_ZEMAIL</CLSNAME>
+    <CLSNAME>ZZIIW_ZEMAIL1</CLSNAME>
     <VERSION>1</VERSION>
     <LANGU>E</LANGU>
     <DESCRIPT>Proxy Interface (generated)</DESCRIPT>
@@ -14,25 +14,25 @@
    </VSEOINTERF>
    <DESCRIPTIONS>
     <SEOCOMPOTX>
-     <CLSNAME>ZZIIW_ZEMAIL</CLSNAME>
+     <CLSNAME>ZZIIW_ZEMAIL1</CLSNAME>
      <CMPNAME>ADVANCED_VERIFY_EMAIL</CMPNAME>
      <LANGU>E</LANGU>
      <DESCRIPT>This function will verify an email address and also includes</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
-     <CLSNAME>ZZIIW_ZEMAIL</CLSNAME>
+     <CLSNAME>ZZIIW_ZEMAIL1</CLSNAME>
      <CMPNAME>RETURN_CODES</CMPNAME>
      <LANGU>E</LANGU>
      <DESCRIPT>This function will give you all the possible code returns</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
-     <CLSNAME>ZZIIW_ZEMAIL</CLSNAME>
+     <CLSNAME>ZZIIW_ZEMAIL1</CLSNAME>
      <CMPNAME>VERIFY_EMAIL</CMPNAME>
      <LANGU>E</LANGU>
      <DESCRIPT>This function allows you to verify an email address against</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
-     <CLSNAME>ZZIIW_ZEMAIL</CLSNAME>
+     <CLSNAME>ZZIIW_ZEMAIL1</CLSNAME>
      <CMPNAME>VERIFY_MXRECORD</CMPNAME>
      <LANGU>E</LANGU>
      <DESCRIPT>This function will verify the domains DNS (MX) mail entries.</DESCRIPT>

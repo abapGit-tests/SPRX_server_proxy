@@ -1,4 +1,4 @@
-interface ZZIIW_ZEMAIL
+interface ZZIIW_ZEMAIL1
   public .
 
 
