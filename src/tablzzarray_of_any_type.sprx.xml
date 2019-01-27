@@ -62,7 +62,6 @@
      <R3_TYPE>FIEL</R3_TYPE>
      <R3_NAME>ANY_TYPE</R3_NAME>
      <R3_SEQNUM>000001</R3_SEQNUM>
-     <WARNINGS> X</WARNINGS>
     </item>
     <item>
      <OBJECT>TABL</OBJECT>
@@ -79,7 +78,6 @@
      <R3_NAME>ZZARRAY_OF_ANY_TYPE</R3_NAME>
      <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
      <CATEGORY>ifmtypedef</CATEGORY>
-     <WARNINGS> X</WARNINGS>
     </item>
     <item>
      <OBJECT>TTYP</OBJECT>
