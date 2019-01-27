@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="ZCL_ABAPGIT_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZZRETURN_CODES_SOAP_IN</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZZRETURN_CODES_SOAP_IN</OBJ_NAME_M>
+     <HASH_ID>3BB50F3E9D7399D442B84F53B7B732DE97E73D1D</HASH_ID>
+     <ID>&lt;message&gt; ReturnCodesSoapIn http://ws.cdyne.com/ http://ws.cdyne.com/</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>message</IFR_TYPE>
+     <IFR_NAME>ReturnCodesSoapIn</IFR_NAME>
+     <IFR_NSPCE>http://ws.cdyne.com/</IFR_NSPCE>
+     <IFR_GNSPCE>http://ws.cdyne.com/</IFR_GNSPCE>
+     <GEN_VERS>0006</GEN_VERS>
+     <PREFIX>ZZ</PREFIX>
+     <CATEGORY>ifmmessage</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+     <X-ML_NSPCE>http://ws.cdyne.com/</X-ML_NSPCE>
+     <X-ML_NAME>ReturnCodes</X-ML_NAME>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZZRETURN_CODES_SOAP_IN</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZZRETURN_CODES_SOAP_IN</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZZRETURN_CODES_SOAP_IN</OBJ_NAME2>
+     <ID>&lt;message&gt; ReturnCodesSoapIn http://ws.cdyne.com/ http://ws.cdyne.com/</ID>
+     <IFR_TYPE>message</IFR_TYPE>
+     <IFR_NAME>ReturnCodesSoapIn</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZZRETURN_CODES_SOAP_IN</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmmessage</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

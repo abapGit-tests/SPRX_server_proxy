@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZZIIW_ZEMAIL</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Proxy Interface (generated)</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+    <CLSPROXY>X</CLSPROXY>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZZIIW_ZEMAIL</CLSNAME>
+     <CMPNAME>ADVANCED_VERIFY_EMAIL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>This function will verify an email address and also includes</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZZIIW_ZEMAIL</CLSNAME>
+     <CMPNAME>RETURN_CODES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>This function will give you all the possible code returns</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZZIIW_ZEMAIL</CLSNAME>
+     <CMPNAME>VERIFY_EMAIL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>This function allows you to verify an email address against</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZZIIW_ZEMAIL</CLSNAME>
+     <CMPNAME>VERIFY_MXRECORD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>This function will verify the domains DNS (MX) mail entries.</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

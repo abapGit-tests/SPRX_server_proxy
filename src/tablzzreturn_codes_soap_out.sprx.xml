@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="ZCL_ABAPGIT_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZZARRAY_OF_ANY_TYPE</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZZARRAY_OF_ANY_TYPE</OBJ_NAME_M>
+     <HASH_ID>55536E59B0BCB2E9D94805860B88CE58F51754F2</HASH_ID>
+     <ID>&lt;type&gt; ArrayOfAnyType http://ws.cdyne.com/ http://ws.cdyne.com/</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>ArrayOfAnyType</IFR_NAME>
+     <IFR_NSPCE>http://ws.cdyne.com/</IFR_NSPCE>
+     <IFR_GNSPCE>http://ws.cdyne.com/</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZZ</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+     <X-ML_NSPCE>http://ws.cdyne.com/</X-ML_NSPCE>
+     <X-ML_NAME>ArrayOfAnyType</X-ML_NAME>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZZRETURN_CODES_SOAP_OUT</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZZRETURN_CODES_SOAP_OUT</OBJ_NAME_M>
+     <HASH_ID>D7FB6050D8F816712CFD8D815C844707A9B0F483</HASH_ID>
+     <ID>&lt;message&gt; ReturnCodesSoapOut http://ws.cdyne.com/ http://ws.cdyne.com/</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>message</IFR_TYPE>
+     <IFR_NAME>ReturnCodesSoapOut</IFR_NAME>
+     <IFR_NSPCE>http://ws.cdyne.com/</IFR_NSPCE>
+     <IFR_GNSPCE>http://ws.cdyne.com/</IFR_GNSPCE>
+     <GEN_VERS>0006</GEN_VERS>
+     <PREFIX>ZZ</PREFIX>
+     <CATEGORY>ifmmessage</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+     <X-ML_NSPCE>http://ws.cdyne.com/</X-ML_NSPCE>
+     <X-ML_NAME>ReturnCodesResponse</X-ML_NAME>
+    </item>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>ZZANY_TYPE_TAB</OBJ_NAME>
+     <OBJECT_M>TTYP</OBJECT_M>
+     <OBJ_NAME_M>ZZANY_TYPE_TAB</OBJ_NAME_M>
+     <HASH_ID>9975993A0C3808874A79F62F533AA452C7378030</HASH_ID>
+     <ID>TableOf&lt;type&gt; anyType http://www.w3.org/2001/XMLSchema http://ws.cdyne.com/</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>anyType</IFR_NAME>
+     <IFR_NSPCE>http://www.w3.org/2001/XMLSchema</IFR_NSPCE>
+     <IFR_GNSPCE>http://ws.cdyne.com/</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZZ</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZZARRAY_OF_ANY_TYPE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>ANY_TYPE</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>ANY_TYPE</OBJ_NAME2>
+     <OBJECT_R>TTYP</OBJECT_R>
+     <OBJ_NAME_R>ZZANY_TYPE_TAB</OBJ_NAME_R>
+     <ID>&lt;element&gt; {http://ws.cdyne.com/}anyType &lt;type&gt; ArrayOfAnyType http://ws.cdyne.com/ http://ws.cdyne.com/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>anyType</IFR_NAME>
+     <IFR_TAGTYP>L</IFR_TAGTYP>
+     <IFR_MAXOCC>65535</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_QUALIF>X</IFR_QUALIF>
+     <IFR_NILLABLE>X</IFR_NILLABLE>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>ANY_TYPE</R3_NAME>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+     <WARNINGS> X</WARNINGS>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZZARRAY_OF_ANY_TYPE</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZZARRAY_OF_ANY_TYPE</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZZARRAY_OF_ANY_TYPE</OBJ_NAME2>
+     <ID>&lt;type&gt; ArrayOfAnyType http://ws.cdyne.com/ http://ws.cdyne.com/</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>ArrayOfAnyType</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZZARRAY_OF_ANY_TYPE</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <WARNINGS> X</WARNINGS>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZZRETURN_CODES_SOAP_OUT</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>RETURN_CODES_RESULT</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>RETURN_CODES_RESULT</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZZARRAY_OF_ANY_TYPE</OBJ_NAME_R>
+     <ID>&lt;element&gt; {http://ws.cdyne.com/}ReturnCodesResult &lt;message&gt; ReturnCodesSoapOut http://ws.cdyne.com/ http://ws.cdyne.com/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>ReturnCodesResult</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_QUALIF>X</IFR_QUALIF>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>RETURN_CODES_RESULT</R3_NAME>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZZRETURN_CODES_SOAP_OUT</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZZRETURN_CODES_SOAP_OUT</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZZRETURN_CODES_SOAP_OUT</OBJ_NAME2>
+     <ID>&lt;message&gt; ReturnCodesSoapOut http://ws.cdyne.com/ http://ws.cdyne.com/</ID>
+     <IFR_TYPE>message</IFR_TYPE>
+     <IFR_NAME>ReturnCodesSoapOut</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZZRETURN_CODES_SOAP_OUT</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmmessage</CATEGORY>
+    </item>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>ZZANY_TYPE_TAB</OBJ_NAME>
+     <OBJECT1>TTYP</OBJECT1>
+     <OBJ_NAME1>ZZANY_TYPE_TAB</OBJ_NAME1>
+     <OBJECT2>TTYP</OBJECT2>
+     <OBJ_NAME2>ZZANY_TYPE_TAB</OBJ_NAME2>
+     <ID>TableOf&lt;type&gt; anyType http://www.w3.org/2001/XMLSchema http://ws.cdyne.com/</ID>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>anyType</IFR_NAME>
+     <IFR_XSDTYP>anyType</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TTYP</R3_TYPE>
+     <R3_NAME>ZZANY_TYPE_TAB</R3_NAME>
+     <R3_TEXT>Proxy Table Type (generated)</R3_TEXT>
+     <R3_DTREF>XSDANY</R3_DTREF>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
