@@ -1,35 +1,39 @@
-class ZZCL_ZEMAIL definition
-  public
-  create public .
+CLASS zzcl_zemail DEFINITION
+  PUBLIC
+  CREATE PUBLIC .
 
-public section.
+  PUBLIC SECTION.
 
-  interfaces ZZIIW_ZEMAIL1 .
-protected section.
-private section.
+    INTERFACES zziiw_zemail1 .
+  PROTECTED SECTION.
+  PRIVATE SECTION.
 ENDCLASS.
 
 
 
-CLASS ZZCL_ZEMAIL IMPLEMENTATION.
+CLASS zzcl_zemail IMPLEMENTATION.
 
 
-  method ZZIIW_ZEMAIL1~ADVANCED_VERIFY_EMAIL.
+  METHOD zziiw_zemail1~advanced_verify_email.
 *** **** INSERT IMPLEMENTATION HERE **** ***
-  endmethod.
+
+    cl_demo_output=>display( |test| ).
 
 
-  method ZZIIW_ZEMAIL1~RETURN_CODES.
+  ENDMETHOD.
+
+
+  METHOD zziiw_zemail1~return_codes.
 *** **** INSERT IMPLEMENTATION HERE **** ***
-  endmethod.
+  ENDMETHOD.
 
 
-  method ZZIIW_ZEMAIL1~VERIFY_EMAIL.
+  METHOD zziiw_zemail1~verify_email.
 *** **** INSERT IMPLEMENTATION HERE **** ***
-  endmethod.
+  ENDMETHOD.
 
 
-  method ZZIIW_ZEMAIL1~VERIFY_MXRECORD.
+  METHOD zziiw_zemail1~verify_mxrecord.
 *** **** INSERT IMPLEMENTATION HERE **** ***
-  endmethod.
+  ENDMETHOD.
 ENDCLASS.
