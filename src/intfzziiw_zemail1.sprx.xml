@@ -53,7 +53,7 @@
      <IFR_SCALE>-2</IFR_SCALE>
      <R3_TYPE>INTF</R3_TYPE>
      <R3_NAME>ZZIIW_ZEMAIL1</R3_NAME>
-     <R3_TEXT>Proxy Interface (generated)</R3_TEXT>
+     <R3_TEXT>test proxy</R3_TEXT>
      <CATEGORY>ExtProvider</CATEGORY>
      <DIRECTION>I</DIRECTION>
     </item>

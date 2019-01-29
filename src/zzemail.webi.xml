@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <WEBI>
-    <VEPTEXT>Proxy Interface (generated)</VEPTEXT>
+    <VEPTEXT>test proxy</VEPTEXT>
     <PVEPHEADER>
      <VEPHEADER>
       <VEPNAME>ZZEMAIL</VEPNAME>
