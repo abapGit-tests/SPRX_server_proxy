@@ -22,23 +22,6 @@
      <X-ML_NSPCE>http://ws.cdyne.com/</X-ML_NSPCE>
      <X-ML_NAME>ArrayOfAnyType</X-ML_NAME>
     </item>
-    <item>
-     <OBJECT>TTYP</OBJECT>
-     <OBJ_NAME>ZZANY_TYPE_TAB</OBJ_NAME>
-     <OBJECT_M>TTYP</OBJECT_M>
-     <OBJ_NAME_M>ZZANY_TYPE_TAB</OBJ_NAME_M>
-     <HASH_ID>9975993A0C3808874A79F62F533AA452C7378030</HASH_ID>
-     <ID>TableOf&lt;type&gt; anyType http://www.w3.org/2001/XMLSchema http://ws.cdyne.com/</ID>
-     <IFR_GLOBAL>X</IFR_GLOBAL>
-     <IFR_TYPE>TableOftype</IFR_TYPE>
-     <IFR_NAME>anyType</IFR_NAME>
-     <IFR_NSPCE>http://www.w3.org/2001/XMLSchema</IFR_NSPCE>
-     <IFR_GNSPCE>http://ws.cdyne.com/</IFR_GNSPCE>
-     <GEN_VERS>0005</GEN_VERS>
-     <PREFIX>ZZ</PREFIX>
-     <CATEGORY>ifmtypedef</CATEGORY>
-     <GEN_APPL>WEBSERVICES</GEN_APPL>
-    </item>
    </PROXY_HEADER>
    <PROXY_DATA>
     <item>
@@ -77,24 +60,6 @@
      <R3_TYPE>TABL</R3_TYPE>
      <R3_NAME>ZZARRAY_OF_ANY_TYPE</R3_NAME>
      <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
-     <CATEGORY>ifmtypedef</CATEGORY>
-    </item>
-    <item>
-     <OBJECT>TTYP</OBJECT>
-     <OBJ_NAME>ZZANY_TYPE_TAB</OBJ_NAME>
-     <OBJECT1>TTYP</OBJECT1>
-     <OBJ_NAME1>ZZANY_TYPE_TAB</OBJ_NAME1>
-     <OBJECT2>TTYP</OBJECT2>
-     <OBJ_NAME2>ZZANY_TYPE_TAB</OBJ_NAME2>
-     <ID>TableOf&lt;type&gt; anyType http://www.w3.org/2001/XMLSchema http://ws.cdyne.com/</ID>
-     <IFR_TYPE>TableOftype</IFR_TYPE>
-     <IFR_NAME>anyType</IFR_NAME>
-     <IFR_XSDTYP>anyType</IFR_XSDTYP>
-     <IFR_SCALE>-2</IFR_SCALE>
-     <R3_TYPE>TTYP</R3_TYPE>
-     <R3_NAME>ZZANY_TYPE_TAB</R3_NAME>
-     <R3_TEXT>Proxy Table Type (generated)</R3_TEXT>
-     <R3_DTREF>XSDANY</R3_DTREF>
      <CATEGORY>ifmtypedef</CATEGORY>
     </item>
    </PROXY_DATA>
